@@ -1,0 +1,41 @@
+{
+  "name": "ts-data-validator",
+  "version": "1.0.0",
+  "description": "Data validator",
+  "main": "src/index.ts",
+  "module": "lib/index.js",
+  "types": "lib/types.d.ts",
+  "files": [
+    "lib-esm"
+  ],
+  "scripts": {
+    "clean": "shx rm -rf _bundles lib lib-esm",
+    "build": "npm run clean && tsc && tsc -m es6 --outDir lib-esm && webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustImChief/ts-data-validator.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "data validator",
+    "es6"
+  ],
+  "author": "JustImChief",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustImChief/ts-data-validator/issues"
+  },
+  "homepage": "https://github.com/JustImChief/ts-data-validator#readme",
+  "dependencies": {
+    "form-data": "*"
+  },
+  "devDependencies": {
+    "shx": "^0.3.3",
+    "ts-loader": "^9.1.1",
+    "typescript": "^4.2.4",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
