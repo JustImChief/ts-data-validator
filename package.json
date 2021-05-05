@@ -1,13 +1,11 @@
 {
   "name": "ts-data-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data validator",
   "main": "src/index.ts",
   "module": "lib/index.js",
   "types": "lib/types.d.ts",
-  "files": [
-    "lib"
-  ],
+  "files": ["lib"],
   "scripts": {
     "clean": "shx rm -rf _bundles lib lib-esm",
     "build": "npm run clean && tsc && tsc -m es6 --outDir lib-esm && webpack"
