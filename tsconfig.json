@@ -1,20 +1,26 @@
 {
-  "compilerOptions": {
-    "moduleResolution": "node",
-    "module": "commonjs",
-    "target": "es5",
-    "lib": [ "es2015", "dom" ],
-    "outDir": "lib",
-    "allowSyntheticDefaultImports": true,
-    "suppressImplicitAnyIndexErrors": true,
-    "forceConsistentCasingInFileNames": true,
-    "sourceMap": true,
-    "declaration": true,
-    "jsx": "react"
-  },
-  "files": [
-    "./src/index.ts"
-  ],
+  "buildOnSave": false,
   "compileOnSave": false,
-  "buildOnSave": false
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": [ "es2015", "dom" ],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "outDir": "lib",
+    "sourceMap": true,
+    "strict": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "es5",
+//    "allowJs": true,
+//    "skipLibCheck": true,
+//    "esModuleInterop": true,
+//    "noFallthroughCasesInSwitch": true,
+//    "resolveJsonModule": true,
+//    "isolatedModules": true,
+//    "noEmit": true,
+//    "module": "commonjs"
+  },
+  "files": ["./src/index.ts"],
 }

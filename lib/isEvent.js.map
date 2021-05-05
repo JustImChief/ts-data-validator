@@ -1,1 +1,1 @@
-{"version":3,"file":"isEvent.js","sourceRoot":"","sources":["../src/isEvent.ts"],"names":[],"mappings":";;AAAA,SAAS,OAAO,CAAC,KAAU;IACzB,OAAO,CAAC,CAAC,CAAC,KAAK,IAAI,KAAK,CAAC,eAAe,IAAI,KAAK,CAAC,cAAc,CAAC,CAAC;AACpE,CAAC;AAED,kBAAe,OAAO,CAAC"}
+{"version":3,"file":"isEvent.js","sourceRoot":"","sources":["../src/isEvent.ts"],"names":[],"mappings":"AAAA,SAAS,OAAO,CAAC,KAAU;IACzB,OAAO,CAAC,CAAC,CAAC,KAAK,IAAI,KAAK,CAAC,eAAe,IAAI,KAAK,CAAC,cAAc,CAAC,CAAC;AACpE,CAAC;AAED,eAAe,OAAO,CAAC"}
