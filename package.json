@@ -8,7 +8,8 @@
   "files": [
     "_bundles",
     "lib",
-    "lib-esm"
+    "lib-esm",
+    "src"
   ],
   "scripts": {
     "clean": "shx rm -rf _bundles lib lib-esm",

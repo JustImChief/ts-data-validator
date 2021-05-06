@@ -1,1 +1,1 @@
-{"version":3,"file":"isBoolean.js","sourceRoot":"","sources":["../src/isBoolean.ts"],"names":[],"mappings":"AAAA,SAAS,SAAS,CAAC,KAAU;IAC3B,OAAO,OAAO,KAAK,KAAK,SAAS,CAAC;AACpC,CAAC;AAED,eAAe,SAAS,CAAC"}
+{"version":3,"file":"isBoolean.js","sourceRoot":"./src/","sources":["isBoolean.ts"],"names":[],"mappings":"AAAA,SAAS,SAAS,CAAC,KAAU;IAC3B,OAAO,OAAO,KAAK,KAAK,SAAS,CAAC;AACpC,CAAC;AAED,eAAe,SAAS,CAAC"}
