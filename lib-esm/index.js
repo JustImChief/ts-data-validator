@@ -6,7 +6,6 @@ import { default as isDate } from './isDate';
 import { default as isDecimal } from './isDecimal';
 import { default as isEvent } from './isEvent';
 import { default as isFile } from './isFile';
-import { default as isFormData } from './isFormData';
 import { default as isFunction } from './isFunction';
 import { default as isInteger } from './isInteger';
 import { default as isJSON } from './isJSON';
@@ -29,7 +28,6 @@ var DataValidator = {
     isDecimal: isDecimal,
     isEvent: isEvent,
     isFile: isFile,
-    isFormData: isFormData,
     isFunction: isFunction,
     isInteger: isInteger,
     isJSON: isJSON,
@@ -45,5 +43,5 @@ var DataValidator = {
     isUndefined: isUndefined,
 };
 export default DataValidator;
-export { compare, isArray, isBlob, isBoolean, isDate, isDecimal, isEvent, isFile, isFormData, isFunction, isInteger, isJSON, isNaN, isNotEmptyArray, isNotEmptyObject, isNotEmptyString, isNull, isNumber, isObject, isRegExp, isString, isUndefined, };
+export { compare, isArray, isBlob, isBoolean, isDate, isDecimal, isEvent, isFile, isFunction, isInteger, isJSON, isNaN, isNotEmptyArray, isNotEmptyObject, isNotEmptyString, isNull, isNumber, isObject, isRegExp, isString, isUndefined, };
 //# sourceMappingURL=index.js.map

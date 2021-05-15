@@ -6,7 +6,6 @@ import { default as isDate }           from './isDate';
 import { default as isDecimal }        from './isDecimal';
 import { default as isEvent }          from './isEvent';
 import { default as isFile }           from './isFile';
-import { default as isFormData }       from './isFormData';
 import { default as isFunction }       from './isFunction';
 import { default as isInteger }        from './isInteger';
 import { default as isJSON }           from './isJSON';
@@ -30,7 +29,6 @@ const DataValidator = {
   isDecimal,
   isEvent,
   isFile,
-  isFormData,
   isFunction,
   isInteger,
   isJSON,
@@ -56,7 +54,6 @@ export {
   isDecimal,
   isEvent,
   isFile,
-  isFormData,
   isFunction,
   isInteger,
   isJSON,

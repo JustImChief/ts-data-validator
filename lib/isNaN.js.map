@@ -1,1 +1,1 @@
-{"version":3,"file":"isNaN.js","sourceRoot":"./src/","sources":["isNaN.ts"],"names":[],"mappings":"AAAA,SAAS,KAAK,CAAC,KAAU;IACvB,OAAO,MAAM,CAAC,KAAK,CAAC,KAAK,CAAC,CAAC;AAC7B,CAAC;AAED,eAAe,KAAK,CAAC"}
+{"version":3,"file":"isNaN.js","sourceRoot":"","sources":["../src/isNaN.ts"],"names":[],"mappings":"AAAA,SAAS,KAAK,CAAC,KAAU;IACvB,OAAO,MAAM,CAAC,KAAK,CAAC,KAAK,CAAC,CAAC;AAC7B,CAAC;AAED,eAAe,KAAK,CAAC"}
