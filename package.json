@@ -1,6 +1,6 @@
 {
   "name": "ts-data-validator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Data validator",
   "main": "src/index.ts",
   "module": "lib/index.js",
