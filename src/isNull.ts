@@ -1,5 +1,5 @@
 function isNull(value: any): boolean {
-  return null == value;
+  return null === value;
 }
 
 export default isNull;
